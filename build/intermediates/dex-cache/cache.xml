@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_75a8526c54678e4f9d5151da3f1ff4436afad0d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_e00571ef62909296e693388d672781daa6f08150/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_596606c4f2b7cf5882589ecc0899b095679412fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_c8e8c684fe51a73564debfd034bf0ea1f7f1d57c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_929d7adcf8fc7daf3ff12f1b59732fb8c3cbef14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_b16eedbd80a30990aa2e3231e85244e366ab87e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5013b7830cc40ca455f737dd390c8cac04a2ce6f">
+        <dex dex="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_69d0f28c81a3c915a8951bda19d4554353001bdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_4b95e17407fc39b3adb280b72444e8eebb05f631/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dced870770f13647b67f486d54dd7900d7677d18">
+        <dex dex="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_088f7efd7b72abf788d5470e38b2a059e19bea7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_9fb764442979a4e72e67261658e4e4f8adb561c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_64ab48c2b4931aaab0c719984383d04b21724e42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/josemanuel/Escritorio/aulamagnaactividad/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_be8c056b47eeb018b31881a28a78e9255b3e5969/classes.dex" />
+    </item>
+
+</items>
